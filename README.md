@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+⚡ Fun fact: My background is in bioinformatics and computational biology.  
+
+I currently work at Colorado State University as a researcher in the Erin Osborne Nishimura laboratory, and as the course coordinator for Quantitative Cell and Molecular Biology, an introductory course on bioinformatics subjects and techniques geared toward first year PhD students.
+
+
 <!--
 **meekrob/meekrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
