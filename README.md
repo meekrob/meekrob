@@ -2,7 +2,7 @@
 
 ⚡ Fun fact: My background is in bioinformatics and computational biology.  
 
-I currently work at Colorado State University as a researcher in the Erin Osborne Nishimura laboratory, and as the course coordinator for Quantitative Cell and Molecular Biology, an introductory course on bioinformatics subjects and techniques geared toward first year PhD students.
+I currently work at Colorado State University as a researcher in the [Erin Osborne Nishimura laboratory](onishlab.colostate.edu), and as the course coordinator for Quantitative Cell and Molecular Biology, an introductory course on bioinformatics subjects and techniques geared toward first year PhD students.
 
 
 <!--
