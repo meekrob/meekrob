@@ -10,11 +10,15 @@ I am also the course coordinator for Quantitative Cell and Molecular Biology, an
 
 ### Interesting projects
 
+#### ChIP-seq analysis projects
+
 Meta-analysis of transcription factor binding sites in *C. elegans*: [https://github.com/meekrob/ELT2-metanalysis](https://github.com/meekrob/ELT2-metanalysis)
 
 
 
 #### Animations
+
+<img alt="Screenshot mid-video" src="../../../../meekrob/c-blenderi/blob/master/media/mid-video-screenshot.png" width=256 height=195>
 
 Python code to convert cell-tracking data into Blender models: [https://github.com/meekrob/c-blenderi](https://github.com/meekrob/c-blenderi)
 
