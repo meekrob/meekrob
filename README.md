@@ -12,6 +12,10 @@ I am also the course coordinator for Quantitative Cell and Molecular Biology, an
 
 Meta-analysis of transcription factor binding sites in *C. elegans*: [https://github.com/meekrob/ELT2-metanalysis](https://github.com/meekrob/ELT2-metanalysis)
 
+
+
+Python code to convert cell-tracking data into Blender models: [https://github.com/meekrob/c-blenderi](https://github.com/meekrob/c-blenderi)
+
 <!--
 **meekrob/meekrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
