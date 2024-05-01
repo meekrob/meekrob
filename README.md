@@ -8,6 +8,9 @@ I currently work at Colorado State University as a researcher in the [Erin Osbor
 
 I am also the course coordinator for Quantitative Cell and Molecular Biology, an introductory course on bioinformatics subjects and techniques geared toward first year PhD students.
 
+### Interesting projects
+
+Meta-analysis of transcription factor binding sites in *C. elegans*: [https://github.com/meekrob/ELT2-metanalysis](https://github.com/meekrob/ELT2-metanalysis)
 
 <!--
 **meekrob/meekrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
