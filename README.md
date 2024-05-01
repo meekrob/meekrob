@@ -14,8 +14,11 @@ Meta-analysis of transcription factor binding sites in *C. elegans*: [https://gi
 
 
 
+#### Animations
+
 Python code to convert cell-tracking data into Blender models: [https://github.com/meekrob/c-blenderi](https://github.com/meekrob/c-blenderi)
-Link to the rendered animation: 
+
+Link to the rendered animation: [Youtube](https://www.youtube.com/watch?v=erd8qn9XWDI)
 
 <!--
 **meekrob/meekrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
