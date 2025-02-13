@@ -12,7 +12,7 @@ I am also the course coordinator for Quantitative Cell and Molecular Biology, an
 
 #### Interactive MA-plot and viewer for RNA-seq data
 
-<img alt="Screenshot demo" src="../../../../meekrob/dash-ma-plot/blob/main/screenshots/MA-dash.gif" width=448 height=195>
+<img alt="Screenshot demo" src="../../../../meekrob/dash-ma-plot/blob/main/screenshots/MA-dash-10fps-50pc.gif" width=448 height=195>
 
 
 #### ELT-2 ChIP-seq and RNA-seq study
