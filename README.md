@@ -10,14 +10,12 @@ I am also the course coordinator for Quantitative Cell and Molecular Biology, an
 
 ### Interesting projects
 
-#### ChIP-seq and RNA-seq analysis projects
-
-##### Interactive MA-plot and viewer for RNA-seq data
+#### Interactive MA-plot and viewer for RNA-seq data
 
 <img alt="Screenshot demo" src="../../../../meekrob/dash-ma-plot/blob/main/screenshots/MA-dash.gif" width=448 height=195>
 
 
-##### ELT-2 ChIP-seq and RNA-seq study
+#### ELT-2 ChIP-seq and RNA-seq study
 
 Meta-analysis of transcription factor binding sites in *C. elegans*: [https://github.com/meekrob/ELT2-metanalysis](https://github.com/meekrob/ELT2-metanalysis)
 
