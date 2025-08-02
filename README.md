@@ -129,7 +129,7 @@ to natural history research: EST resources for ambystomatid
 salamanders.* **BMC Genomics**. 2004 Aug 13;5(1):54. doi:
 10.1186/1471-2164-5-54. PMID: 15310388; PMCID: PMC509418.</span>
 
-<span class="mark">Shah NH, King DC, Shah PN, Fedoroff NV. *A tool-kit
+<span class="mark">17. Shah NH, King DC, Shah PN, Fedoroff NV. *A tool-kit
 for cDNA microarray and promoter analysis.* **Bioinformatics**. 2003 Sep
 22;19(14):1846-8. doi: 10.1093/bioinformatics/btg253. PMID:
 14512358.</span>
